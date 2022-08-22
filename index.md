@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ljxyea Blog
 
 You can use the [editor on GitHub](https://github.com/Ljxyea/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
